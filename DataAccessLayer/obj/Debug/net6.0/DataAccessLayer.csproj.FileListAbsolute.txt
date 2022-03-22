@@ -1,0 +1,12 @@
+C:\Landis+Gyr\E-marketing\E-marketing\DataAccessLayer\bin\Debug\net6.0\DataAccessLayer.deps.json
+C:\Landis+Gyr\E-marketing\E-marketing\DataAccessLayer\bin\Debug\net6.0\DataAccessLayer.dll
+C:\Landis+Gyr\E-marketing\E-marketing\DataAccessLayer\bin\Debug\net6.0\DataAccessLayer.pdb
+C:\Landis+Gyr\E-marketing\E-marketing\DataAccessLayer\obj\Debug\net6.0\DataAccessLayer.csproj.AssemblyReference.cache
+C:\Landis+Gyr\E-marketing\E-marketing\DataAccessLayer\obj\Debug\net6.0\DataAccessLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Landis+Gyr\E-marketing\E-marketing\DataAccessLayer\obj\Debug\net6.0\DataAccessLayer.AssemblyInfoInputs.cache
+C:\Landis+Gyr\E-marketing\E-marketing\DataAccessLayer\obj\Debug\net6.0\DataAccessLayer.AssemblyInfo.cs
+C:\Landis+Gyr\E-marketing\E-marketing\DataAccessLayer\obj\Debug\net6.0\DataAccessLayer.csproj.CoreCompileInputs.cache
+C:\Landis+Gyr\E-marketing\E-marketing\DataAccessLayer\obj\Debug\net6.0\DataAccessLayer.dll
+C:\Landis+Gyr\E-marketing\E-marketing\DataAccessLayer\obj\Debug\net6.0\refint\DataAccessLayer.dll
+C:\Landis+Gyr\E-marketing\E-marketing\DataAccessLayer\obj\Debug\net6.0\DataAccessLayer.pdb
+C:\Landis+Gyr\E-marketing\E-marketing\DataAccessLayer\obj\Debug\net6.0\ref\DataAccessLayer.dll
